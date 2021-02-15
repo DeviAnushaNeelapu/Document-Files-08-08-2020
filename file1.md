@@ -8,4 +8,4 @@
 
 ## Welcome to apssdc 
 
-<img src="http://ffsc.in/wp-content/uploads/2016/07/APSSDC-Logo.jpg">
+
