@@ -11,6 +11,7 @@ Welcome to Source Code Management Documentation!
    :numbered:
    
    file1.md
+   file2.md
 
 
 
